@@ -1,0 +1,6 @@
+com\programmingtechie\productservice\model\Product.class
+com\programmingtechie\productservice\model\Product$ProductBuilder.class
+com\programmingtechie\productservice\config\SecurityConfig.class
+com\programmingtechie\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\programmingtechie\productservice\dto\ProductResponse.class
+com\programmingtechie\productservice\repository\ProductRepository.class
